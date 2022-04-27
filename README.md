@@ -1,0 +1,53 @@
+# NanumSquare
+
+# 나눔스퀘어(NanumSquare)
+
+<a href="https://wess.tistory.com" target="_blank">
+    <img src="https://webfontworld.github.io/NanumSquare/NanumSquare.jpg" alt="NanumSquare" style="width:300px">
+</a>
+<pre>
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Light.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Light.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Light.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Regular.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Regular.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Bold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-Bold.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-ExtraBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-ExtraBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-ExtraBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/NanumSquare/NanumSquare-ExtraBold.ttf') format("truetype");
+    font-display: swap;
+} 
+</pre>
